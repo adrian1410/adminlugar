@@ -213,3 +213,12 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+#############
+## Netbeans & Codeigniter
+#############
+nbproject/*
+application/config/config.php_example
+application/config/database.php_example
+distgcom_lugar.sql
